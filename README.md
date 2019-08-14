@@ -35,4 +35,4 @@ License: http://www.gnu.org/licenses/gpl-2.0.html
 
 - To manually shorten URLs open in your web browser the location where you uploaded the files
 - To programmatically shorten URLs with PHP use the following code:
-    $shortenedurl = file_get_contents('http://yourdomain.com/shorten/?longurl=' . urlencode('http://' . $_SERVER['HTTP_HOST']  . '/' . $_SERVER['REQUEST_URI']));
+    `$shortenedurl = file_get_contents('http://yourdomain.com/shorten/?longurl=' . urlencode('http://' . $_SERVER['HTTP_HOST']  . '/' . $_SERVER['REQUEST_URI']));`
