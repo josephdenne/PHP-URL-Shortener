@@ -8,7 +8,7 @@ License: http://www.gnu.org/licenses/gpl-2.0.html
 
 - Can shorten over 42 billion unique URLs in 6 or less characters (it can do more than 12,000,000 in only 4!)
 - Extremely fast: uses very little server resource
-- Minimalist front end: make your own
+- Minimalist front end: make it your own
 - Includes an API so you can create your own short URLs on the fly
 - Option to turn clickthru tracking on and off
 - Option to limit usage to 1 IP address for personal use and to prevent spamming from others
