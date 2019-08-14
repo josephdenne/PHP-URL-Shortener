@@ -1,6 +1,6 @@
 # PHP URL Shortener
 
-Based on [PHP-URL-Shortener by Brian Cray](https://github.com/briancray/PHP-URL-Shortener), this app provides a simple but powerful PHP+MySQL based URL shortener.
+Based on [PHP-URL-Shortener by Brian Cray](https://github.com/briancray/PHP-URL-Shortener) (now abandoned), this app provides a simple but powerful PHP+MySQL based URL shortener.
 
 License: http://www.gnu.org/licenses/gpl-2.0.html
 
