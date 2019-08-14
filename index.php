@@ -6,7 +6,7 @@ require('config.php');
 if($_SERVER['REMOTE_ADDR'] != LIMIT_TO_IP) {
 
 	// Soft redirect
-	header('Location: https://foundthings.com');
+	header('Location: https://yourdomain.com');
 	exit;
 }
 
@@ -14,7 +14,7 @@ if($_SERVER['REMOTE_ADDR'] != LIMIT_TO_IP) {
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Found Things URL shortener</title>
+		<title>PHP URL Shortener</title>
 		<meta name="robots" content="noindex, nofollow">
 	</head>
 	<body>
